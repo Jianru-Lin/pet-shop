@@ -23,6 +23,9 @@ cd pet-shop
 # 安装依赖
 npm install
 
+# 部署智能合约
+truffle migrate
+
 # 启动
 npm run dev
 ```
